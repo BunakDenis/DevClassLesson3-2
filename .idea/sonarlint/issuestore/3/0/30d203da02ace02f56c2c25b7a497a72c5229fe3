@@ -1,0 +1,9 @@
+
+
+java:S1854&"9Remove this useless assignment to local variable "parts".(İæÈºùÿÿÿÿ8Á ¥©…2J$6c95417c-a2d3-497c-a888-def718dd12e4
+
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(ş™ÅŞ8Ì ¥©…2J$9c6ae85f-125f-4346-b1d2-7fd143fe3ed6
+r
+java:S1481&"*Remove this unused "parts" local variable.(İæÈºùÿÿÿÿ8Ñ ¥©…2J$a8b9483f-1059-4367-b23f-c68d91c9ebce
+›	java:S1150"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(™íô78Ü ¥©…2J$ca6dba94-403e-4e46-952c-c1d31b65b1c7
+›	java:S1150"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(™íô78İ ¥©…2J$8f364e15-2ff0-481a-bfa0-85944cbe3ecd
