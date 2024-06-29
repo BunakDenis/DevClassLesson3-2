@@ -1,0 +1,7 @@
+
+b
+java:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(±û™Ä8ð›¹¥†2
+c
+java:S1075
+"ARefactor your code to get this URI from a customizable parameter.(˜—”îøÿÿÿÿ8ô›¹¥†2
+L	java:S106"+Replace this use of System.out by a logger.(±ÚÂ˜øÿÿÿÿ8û›¹¥†2
